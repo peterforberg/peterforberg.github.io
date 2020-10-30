@@ -6,8 +6,6 @@ layout: home
 
 ---
 
-### about
-
 <p align="center">
    <img src="peter.png" width="40%" />
 </p>
