@@ -29,7 +29,8 @@ linkedin_username:  peter-forberg
 
 # Build settings
 theme: minima
-# plugins:
+#plugins:
+  # - jekyll-seo-tag
   # - jekyll-feed
 
 # Exclude from processing.
