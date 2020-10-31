@@ -14,7 +14,7 @@ My first internship in college was at the [Game Changer Chicago Design Lab](http
 Games are perfect subjects and tools of study: as objects, they provide playgrounds where we can see how people socialize within the constraints of a given game, and as tools, they allow us to experiment by designing experiences and seeing how people respond.
 
 **Censorship, Freedom of Expression, and Dissensus**   
-My interest in Digital Studies was largely based in how political information is transmitted online, especially as it relates to radicalisation and extremism. I began working with the University of Chicago's newly founded Parrhesia Program to study the history of freedom of expression on college campuses, focusing on how the now-infamous Chicago Principles could be implemented into real-life college settings.
+My interest in digital studies was largely based in how political information is transmitted online, especially as it relates to radicalisation and extremism. I began working with the University of Chicago's newly founded Parrhesia Program to study the history of freedom of expression on college campuses, focusing on how the now-infamous Chicago Principles could be implemented into real-life college settings.
 
 For my undergraduate thesis in sociology, I spent a year researching the political movement and far-right conspiracy theory QAnon, whose rapid rise in popularity was driven in part by lax censorship on the Internet and social media. Moreover, their innate distrust of political opponents, politicians, and the mainstream media was demonstration of the growing partisan divide in our media, social networks, and conversations. 
 
