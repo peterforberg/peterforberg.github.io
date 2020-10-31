@@ -33,11 +33,11 @@ At the [University of Chicago MADD Center](https://arts.uchicago.edu/explore/ini
 Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech.
 
 **\#** Game Designer and Research Assistant at the Ci3  
-*Spring 2018 to Winter 2020*
+*Spring 2018 to Winter 2020*  
 At an interdisciplinary design lab, I worked with psychologists, game designers, and public health researchers to develop sexual health interventions in the form of games and applications. My tasks included researching sexual health deficits (and their related interventions) in order to incorporate them into game design, prototyping game ideas and playtesting them with community members, and analyzing qualitative data.
 
 **\#** New Works Development Intern at The House Theatre of Chicago   
-*Summer 2018*
+*Summer 2018*  
 At the [House Theatre](https://www.thehousetheatre.com/) of Chicago, I worked with the authors of newly-written plays to develop their work. 
 
 **Grant Awards**  
