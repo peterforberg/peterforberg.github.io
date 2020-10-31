@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cv
+title: 📃cv
 permalink: /cv/
 ---
 
@@ -14,7 +14,7 @@ Awards: Dean’s List 2017-18, Dean’s List 2018-2019, Dean’s List 2019-2020
 - Specialization in Cultural Sociology
 - Minor in *Media Arts and Design*  
 - BA/MA student
- 
+
 **Work Experience**  
 **\#** Research Assistant at the University of Chicago Department of Sociology    
 *Autumn 2019 to Present*  
