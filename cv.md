@@ -34,7 +34,7 @@ Working under Professor Leila Brammer, I conduct literature reviews and research
 
 **\#** Game Designer and Research Assistant at the Ci3  
 *Spring 2018 to Winter 2020*
-At an interdisciplinary design lab, I worked with psychologists, game designers, and public health researchers to develop sexual health interventions in the form of games and applications. 
+At an interdisciplinary design lab, I worked with psychologists, game designers, and public health researchers to develop sexual health interventions in the form of games and applications. My tasks included researching sexual health deficits (and their related interventions) in order to incorporate them into game design, prototyping game ideas and playtesting them with community members, and analyzing qualitative data.
 
 **\#** New Works Development Intern at The House Theatre of Chicago   
 *Summer 2018*
