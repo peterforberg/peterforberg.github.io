@@ -41,6 +41,10 @@ At an interdisciplinary design lab, I worked with psychologists, game designers,
 At the [House Theatre](https://www.thehousetheatre.com/) of Chicago, I worked with the authors of newly-written plays to develop their work. My primary responsibilities included scheduling and managing workshops and read-throughs of new work, reading through submissions to the theatre, and organizing a showcase of the summer's progress for friends of the House.
 
 **Grant Awards**  
+**\#** College Research Fellow   
+$4500, 2020-2021  
+This grant was used to fund my research on academic freedom and freedom of expression on college campuses.  
+
 **\#** Seidel Scholars PRISM Grant  
 $4000, Summer 2020  
 This grant was used to fund my research on the far-right conspiracy theory QAnon in preparation for my undergraduate thesis.
@@ -60,7 +64,7 @@ This grant was used to fund my employment at Fourcast Lab where I assisted in th
 **Proficiencies**    
 Office Suites: LibreOffice, Google Drive, Microsoft Office  
 Programming Languages: Python, R, Javascript, HTML, CSS  
-Geographic Information Science: GeoDa, QGIS, R packages
+Geographic Information Science: GeoDa, QGIS, R packages  
 Language: French, some Wolof  
 Various Tools: MySQL, RegEx, Protégé, Adobe Creative Suite (Photoshop, Illustrator, Premiere) 
 
