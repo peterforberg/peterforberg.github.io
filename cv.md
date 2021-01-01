@@ -22,7 +22,7 @@ Working closely with a small team of sociology researchers, I scheduled, conduct
 
 **\#** Game Designer and Communications Intern at [Fourcast Lab](https://fourcastlab.com/)  
 *Spring 2019 to Present*  
-With a group of artists, actors, professors, game designers, and other students, I help develop [award-winning](https://anywhere.indiecade.com/nominated-games/terrarium-an-alternate-reality-game/) alternate reality games for social change. As an intern, my responsibilities include prototyping and playtesting new forms of live, interactive gameplay, managaging the games' social media presence and communication with players via social media and chatrooms such as Slack or Discord, and researching topics related to the games' themes.
+With a group of artists, actors, professors, game designers, and other students, I help develop [award-winning](https://anywhere.indiecade.com/nominated-games/terrarium-an-alternate-reality-game/) alternate reality games for social change. As an intern, my responsibilities include prototyping and playtesting new forms of live, interactive gameplay, managing the games' social media presence and communication with players via social media and chatrooms such as Slack or Discord, and researching topics related to the games' themes.
 
 **\#** Library Assistant at the Media, Arts, Data and Design Center  
 *Autumn 2019 to Present*  

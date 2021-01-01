@@ -16,6 +16,8 @@ Some of projects are big, some are small. Some are good, some are bad. All of th
 
 **\#** While I like to read and write traditional, human-written poetry, I also enjoy the quirks of poetry imagined by machines. This simple [Google sheet](https://docs.google.com/spreadsheets/d/1qUE27J2VIthnXfBCxStaENDxnBpGLMQ4Mnqiwi_GoLg/copy) lets users input text into one column and then sends the poems through a crucible of Google translations, resulting in some funky rhymes and rhythms. I carefully curated the order of languages and choice of languages; otherwise, the text becomes illegible or completely broken, so have fun with it! I used this same method to completely destroy horoscopes in [@wostarastrology](https://twitter.com/wostarastrology) on Twitter. After collecting thousands of horoscopes, I fed them to a GPT-2 text generator. Then, I had that generator produce thousands of new horoscopes, and then I fed those horoscopes into that Google sheet. The Twitter bot sends out these magnificents drops of bizarre wisdom and anxieties every 6 hours.
 
+**\#** I spent the winter of 2020 in Dakar, Senegal, on the west coast of Africa. During that time, I maintained an informal, haphazard [little blog](https://peterandnickgotodakar.peterforberg.com) with my roommate. My writing was abruptly cut short by the COVID-19 pandemic, but I wanted to preserve some of my experiences on the internet forever, as you do. This is not professional writing.
+
 <!--{:target="_blank"}-->
 
 <!--Some of these projects are big, some of them are small. Some of them are good, some of them are bad. All of them are fun. For me.
