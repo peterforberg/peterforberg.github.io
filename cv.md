@@ -10,7 +10,7 @@ permalink: /cv/
 [The University of Chicago](https://www.uchicago.edu/), Chicago, IL  
 *Sociology BA,* Expected, June 2021  
 *Digital Studies in Language, Culture, and History MA,* Expected, June 2021  
-Awards: Dean’s List 2017-18, Dean’s List 2018-2019, Dean’s List 2019-2020 
+Awards: Dean’s List 2017-18, Dean’s List 2018-2019, Dean’s List 2019-2020, Gary Becker Scholar Social Sciences Collegiate Divisional Honors
 - Specialization in Cultural Sociology
 - Minor in *Media Arts and Design*  
 - BA/MA student
