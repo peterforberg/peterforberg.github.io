@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /writing/the-peoples-bridge/
+permalink: /my-work/the-peoples-bridge/
 ---
 #### QAnon: Mothers Against the World
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /writing/chicago-covid/
+permalink: /my-work/chicago-covid/
 ---
 #### COVID-19 Disparity in Chicago
 

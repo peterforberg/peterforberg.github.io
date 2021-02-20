@@ -1,10 +1,12 @@
 ---
 layout: page
-permalink: /writing/garrys-mod/
+permalink: /my-work/garrys-mod/
 ---
 #### Making the Real: The Online Lives of Garry’s Mod Players
 
 *How some video game players find unlikely places to explore their identities, biases, and dark fantasies.*
+
+![Garry's Mod](/images/garrysmod.jpg)
 
 Messiah Blues adjusts her skirt and settles onto a leather couch in front of a hastily-prepared studio backdrop, a wild array of LED lights glancing off the camera’s lens. A small crew of news broadcasters flit about the space, preparing to go live, but the real commotion takes place in the lobby of the office building where their production has been staged. A crowd of men, some with picket signs, are protesting her interview, and a lone security guard does his best to prevent them from rushing the stage. Messiah makes idle chit-chat with the host, joking about how the men outside would rather see her dead than listen to her speak. When the cameras finally start rolling, the host’s first question homes in on her observation: why does she choose to come to a place where so many people despise her? Messiah decides to fan the flames and says, “I don’t just want to be a woman—I want to be the woman. Here I’m free to try it out.” When they hear this, the crowd erupts.
 

@@ -16,21 +16,21 @@ Awards: Dean’s List 2017-18, Dean’s List 2018-2019, Dean’s List 2019-2020,
 - BA/MA student
 
 **Work Experience**  
-**\#** Research Assistant at the University of Chicago Department of Sociology    
-*Autumn 2019 to Present*  
-Working closely with a small team of sociology researchers, I scheduled, conducted, and analyzed focus groups and interviews with over 50 first-year undergraduate students from underrepresented backgrounds. As part of a larger, longitudinal project, we are investigating how student backgrounds, university resources and programming, social networks, and the COVID-19 pandemic affect student success in college.
-
-**\#** Game Designer and Communications Intern at [Fourcast Lab](https://fourcastlab.com/)  
-*Spring 2019 to Present*  
-With a group of artists, actors, professors, game designers, and other students, I help develop [award-winning](https://anywhere.indiecade.com/nominated-games/terrarium-an-alternate-reality-game/) alternate reality games for social change. As an intern, my responsibilities include prototyping and playtesting new forms of live, interactive gameplay, managing the games' social media presence and communication with players via social media and chatrooms such as Slack or Discord, and researching topics related to the games' themes.
+**\#** Research Assistant at the University of Chicago [Parrhesia Program](https://college.uchicago.edu/academics/parrhesia-program-public-discourse)  
+*Spring 2020 to Present*  
+Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech.
 
 **\#** Library Assistant at the Media, Arts, Data and Design Center  
 *Autumn 2019 to Present*  
 At the [University of Chicago MADD Center](https://arts.uchicago.edu/explore/initiatives/media-arts-data-and-design-center-madd-center), I work with digital fabrication tools such as LASER cutters, 3D printers, embroidery machines, and CNC routers to help students, faculty, and community members with a [variety of projects](https://voices.uchicago.edu/madeathal/). My tasks also include developing tutorials, managing equipment, and experimenting with tools in order to help the nascent center grow.
 
-**\#** Research Assistant at the University of Chicago [Parrhesia Program](https://college.uchicago.edu/academics/parrhesia-program-public-discourse)  
-*Spring 2020 to Present*  
-Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech.
+**\#** Game Designer and Communications Intern at [Fourcast Lab](https://fourcastlab.com/)  
+*Spring 2019 to Present*  
+With a group of artists, actors, professors, game designers, and other students, I help develop [award-winning](https://anywhere.indiecade.com/nominated-games/terrarium-an-alternate-reality-game/) alternate reality games for social change. As an intern, my responsibilities include prototyping and playtesting new forms of live, interactive gameplay, managing the games' social media presence and communication with players via social media and chatrooms such as Slack or Discord, and researching topics related to the games' themes.
+
+**\#** Research Assistant at the University of Chicago Department of Sociology    
+*Autumn 2019 to December 2020*  
+Working closely with a small team of sociology researchers, I scheduled, conducted, and analyzed focus groups and interviews with over 50 first-year undergraduate students from underrepresented backgrounds. As part of a larger, longitudinal project, we are investigating how student backgrounds, university resources and programming, social networks, and the COVID-19 pandemic affect student success in college.
 
 **\#** Game Designer and Research Assistant at the [Ci3](https://ci3.uchicago.edu/)  
 *Spring 2018 to Winter 2020*  
@@ -69,4 +69,7 @@ Language: French, some Wolof
 Various Tools: MySQL, RegEx, Protégé, Adobe Creative Suite (Photoshop, Illustrator, Premiere) 
 
 **Citations**  
-Motley, Darnell N. and Peter Forberg. 2019. "Developing a Game-Based Intervention to Facilitate Parent-Child Communication about Sexual Health." *Poster presented at The Society for the Scientific Study of Sexuality Spring Symposium,* Bloomington, IN.
+Motley, Darnell N. and Peter Forberg. 2019. "Developing a Game-Based Intervention to Facilitate Parent-Child Communication about Sexual Health." *Poster presented at The Society for the Scientific Study of Sexuality Spring Symposium,* Bloomington, IN. 
+
+**Teaching**  
+Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology
