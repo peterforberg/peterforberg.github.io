@@ -15,18 +15,10 @@ Awards: Dean’s List 2017-18, Dean’s List 2018-2019, Dean’s List 2019-2020,
 - Minor in *Media Arts and Design*  
 - BA/MA student
 
-**Work Experience**  
+**Research Experience**  
 **\#** Research Assistant at the University of Chicago [Parrhesia Program](https://college.uchicago.edu/academics/parrhesia-program-public-discourse)  
 *Spring 2020 to Present*  
 Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech.
-
-**\#** Library Assistant at the Media, Arts, Data and Design Center  
-*Autumn 2019 to Present*  
-At the [University of Chicago MADD Center](https://arts.uchicago.edu/explore/initiatives/media-arts-data-and-design-center-madd-center), I work with digital fabrication tools such as LASER cutters, 3D printers, embroidery machines, and CNC routers to help students, faculty, and community members with a [variety of projects](https://voices.uchicago.edu/madeathal/). My tasks also include developing tutorials, managing equipment, and experimenting with tools in order to help the nascent center grow.
-
-**\#** Game Designer and Communications Intern at [Fourcast Lab](https://fourcastlab.com/)  
-*Spring 2019 to Present*  
-With a group of artists, actors, professors, game designers, and other students, I help develop [award-winning](https://anywhere.indiecade.com/nominated-games/terrarium-an-alternate-reality-game/) alternate reality games for social change. As an intern, my responsibilities include prototyping and playtesting new forms of live, interactive gameplay, managing the games' social media presence and communication with players via social media and chatrooms such as Slack or Discord, and researching topics related to the games' themes.
 
 **\#** Research Assistant at the University of Chicago Department of Sociology    
 *Autumn 2019 to December 2020*  
@@ -35,6 +27,15 @@ Working closely with a small team of sociology researchers, I scheduled, conduct
 **\#** Game Designer and Research Assistant at the [Ci3](https://ci3.uchicago.edu/)  
 *Spring 2018 to Winter 2020*  
 At an interdisciplinary design lab, I worked with psychologists, game designers, and public health researchers to develop sexual health interventions in the form of games and applications. My tasks included researching sexual health deficits (and their related interventions) in order to incorporate them into game design, prototyping game ideas and playtesting them with community members, and analyzing qualitative data. (By the way, Ci3 stands for The Center for Interdisciplinary Inquiry and Innovation in Sexual and Reproductive Health: say that ten times fast.)
+
+**Work Experience**  
+**\#** Library Assistant at the Media, Arts, Data and Design Center  
+*Autumn 2019 to Present*  
+At the [University of Chicago MADD Center](https://arts.uchicago.edu/explore/initiatives/media-arts-data-and-design-center-madd-center), I work with digital fabrication tools such as LASER cutters, 3D printers, embroidery machines, and CNC routers to help students, faculty, and community members with a [variety of projects](https://voices.uchicago.edu/madeathal/). My tasks also include developing tutorials, managing equipment, and experimenting with tools in order to help the nascent center grow.
+
+**\#** Game Designer and Communications Intern at [Fourcast Lab](https://fourcastlab.com/)  
+*Spring 2019 to Present*  
+With a group of artists, actors, professors, game designers, and other students, I help develop [award-winning](https://anywhere.indiecade.com/nominated-games/terrarium-an-alternate-reality-game/) alternate reality games for social change. As an intern, my responsibilities include prototyping and playtesting new forms of live, interactive gameplay, managing the games' social media presence and communication with players via social media and chatrooms such as Slack or Discord, and researching topics related to the games' themes.
 
 **\#** New Works Development Intern at The House Theatre of Chicago   
 *Summer 2018*  
