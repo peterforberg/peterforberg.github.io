@@ -84,7 +84,7 @@ I’m double-checking my notes and playing back some of my recorded audio, back 
 **TRUST THE PLAN**  
 Veronica is coming to visit my university with her daughter soon. She loves the architecture, the old ivy, and knowing that you’re surrounded by brilliant people. Her daughter has always wanted to go there and is particularly curious about the kinds of tests that professors give out. This is another trait that she’s inherited from her mother, who asked me after our first visit to bring her a test, one that would teach her something about herself but validate what she already knew: that she was smart. I told her that sociologists don’t administer IQ tests, and she said, “Just a test, any test, really.” The world becomes disenchanted, the narratives hard to follow, the clues hard to put together, and the good guys increasingly difficult to distinguish from the bad guys, but tests prove that you know the world. Tests demonstrate that what you’re doing is right. “I just want to know that I’m smart, that I’m up here doing good.” When it’s easy to remain ignorant, and it’s hard to decide how to do good, and people are out on bridges trying to build a better world for their children, and nobody knows how to move forward, then the choice to do something? 
 
->Q1339 
+>Q1339  
 >The choice has always been yours.    
 
 ![Peter on the Bridge](/images/peter-bridge.jfif)
