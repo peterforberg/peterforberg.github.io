@@ -8,7 +8,7 @@ This represents my first attempt at exploratory data analysis 2 years ago. Using
 
 First, we look at a few variables and see if there appear to be viable statistical overlaps of disparities.
 
-![Maps](/images/quantile_all6.png)
+![Maps](/images/quantilemaps.png)
 
 We immediately see clusters of high chlamydia rates, high crime, high poverty, high un-education rates, and high abandoned buildings. These might overlap with where see see more public health clinics, which is a good sign for the health of Chicago. We can step back from the maps for a second and see if there are correlations between these variables using a correlation matrix.
 
