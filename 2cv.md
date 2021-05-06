@@ -69,8 +69,12 @@ Geographic Information Science: GeoDa, QGIS, R packages
 Language: French, some Wolof  
 Various Tools: MySQL, RegEx, Protégé, Adobe Creative Suite (Photoshop, Illustrator, Premiere) 
 
-**Citations**  
+**Talks and Presentations**  
 Motley, Darnell N. and Peter Forberg. 2019. "Developing a Game-Based Intervention to Facilitate Parent-Child Communication about Sexual Health." *Poster presented at The Society for the Scientific Study of Sexuality Spring Symposium,* Bloomington, IN. 
 
+Forberg, Peter. 2021. "'We Are the News Now': QAnon and the Replacement of Epistemic Authorities with Personalized Online Political Communities." *Paper presented at The Great Mediation: Perspectives on Politics and the New Media,* University of Chicago: Chicago, IL.
+
+Fogarty-Valenzuela, Benjamin and Peter Forberg. 2021. "Virtual Ethnography: Ethnographic Methods for a Pandemic." *Presentation at Cinema Media Studies's Digital Media Workshop,* University of Chicago: Chicago, IL.
+
 **Teaching**  
-Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology
+Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology. 2021.
