@@ -82,7 +82,7 @@ Forberg, Peter. 2021. "'We Are the News Now': QAnon and the Replacement of Epist
 Fogarty-Valenzuela, Benjamin and Peter Forberg. 2021. "Virtual Ethnography: Ethnographic Methods for a Pandemic." *Presentation at Cinema Media Studies's Digital Media Workshop,* University of Chicago: Chicago, IL.
 
 **Writing**    
-Forberg, Peter. 2021. ["My Time with the Anons: Making My Digital Self with Conspiracy Theorists."](https://ethnomarginalia.com/my-time-with-the-anons-making-my-digital-self-with-conspiracy-theorists/) *Ethnographic Marginalia: Methodological Appendix.*
+Forberg, Peter. 2021. ["My Time with the Anons: Making My Digital Self with Conspiracy Theorists."](https://ethnomarginalia.com/my-time-with-the-anons/) *Ethnographic Marginalia: Methodological Appendix.*
 
 **Teaching**  
 Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology. 2021.
