@@ -10,6 +10,10 @@ Some of projects are big, some are small. Some are good, some are bad. All of th
 
 **\#** I made this website.
 
+**\#** For my Master's thesis in digital studies of language, culture, and history, I developed a network visualization tool designed to be a little more accessible than previous tools. I want to do more with this, but for now it's on the backburner. Accessible [here.](https://loss.peterforberg.com)
+
+<!-- **\#** For my Bachelor's thesis in sociology, I summarized my research in the form of an interactive quiz. You can check it out [here.](https://qquiz.peterforberg.com) -->
+
 **\#** *[Mother of 1000s](https://mother1000s.peterforberg.com)* was an HTML game run as part of a larger ARG. The (now-archived) game presented players with a small [kalanchoe daigremontiana](https://en.wikipedia.org/wiki/Kalanchoe_daigremontiana) to take care of using four basic commands: snip, water, light, ignore. As the world outside the plant's window changed, players had to choose between these limited options to address issues beyond the scope of plant care. As a collectively played game, players were given a timeframe in which to make a decision, and by clicking their desired command, each individual player "voted" for the final outcome. The game's narrative addresses the limitations imposed on individuals to effect real change in global environmental issues.
 
 **\#** *[Eco-clicker](https://eco-clicker.peterforberg.com)* is a simple Javascript game designed in a day. Unlike most clicker games, which incentivize resource maximization and furious clicking, *Eco-clicker* puts limits on the user's capacity for automation, and it attempts to quantify the unintended side effects of an economic approach to environmental resource management.

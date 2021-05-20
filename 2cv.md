@@ -10,15 +10,20 @@ permalink: /cv/
 [The University of Chicago](https://www.uchicago.edu/), Chicago, IL  
 *Sociology BA,* Expected, June 2021  
 *Digital Studies in Language, Culture, and History MA,* Expected, June 2021  
-Awards: Dean’s List 2017-18, Dean’s List 2018-2019, Dean’s List 2019-2020, Gary Becker Scholar Social Sciences Collegiate Divisional Honors
-- Specialization in Cultural Sociology
+Awards: Dean’s List 2017-2020, Gary Becker Scholar Social Sciences Collegiate Divisional Honors
+- Specialization in Cultural and Hermeneutical Sociology
 - Minor in *Media Arts and Design*  
 - BA/MA student
 
 **Research Experience**  
+**\#** Research Assistant at the [Chicago Center for HIV Elimination](https://hivelimination.uchicago.edu/)    
+*Spring 2021 to Present*     
+On an interdisciplinary public health team, I work directly with a lead PI to conduct background research on upcoming papers and grants. My current work is focused on developing resources to understand the traumatic effects of *transmisogynoir,* the triple marginalization of Black transgender women. 
+
+
 **\#** Research Assistant at the University of Chicago [Parrhesia Program](https://college.uchicago.edu/academics/parrhesia-program-public-discourse)  
 *Spring 2020 to Present*  
-Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech.
+Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech. Moving beyond theory, we aim to develop robust, pedagogical frameworks for making constructive discourse a practice, not just an ideal.
 
 **\#** Research Assistant at the University of Chicago Department of Sociology    
 *Autumn 2019 to December 2020*  
@@ -75,6 +80,9 @@ Motley, Darnell N. and Peter Forberg. 2019. "Developing a Game-Based Interventio
 Forberg, Peter. 2021. "'We Are the News Now': QAnon and the Replacement of Epistemic Authorities with Personalized Online Political Communities." *Paper presented at The Great Mediation: Perspectives on Politics and the New Media,* University of Chicago: Chicago, IL.
 
 Fogarty-Valenzuela, Benjamin and Peter Forberg. 2021. "Virtual Ethnography: Ethnographic Methods for a Pandemic." *Presentation at Cinema Media Studies's Digital Media Workshop,* University of Chicago: Chicago, IL.
+
+**Writing**    
+Forberg, Peter. 2021. ["My Time with the Anons: Making My Digital Self with Conspiracy Theorists."](https://ethnomarginalia.com/my-time-with-the-anons-making-my-digital-self-with-conspiracy-theorists/) *Ethnographic Marginalia: Methodological Appendix.*
 
 **Teaching**  
 Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology. 2021.

@@ -28,9 +28,9 @@ While studying abroad in Dakar, I conducted something of an informal ethnography
 
 These graphs tracking Chicago's COVID-19 vaccine rollout tell the story of an inequitable pandemic, one that has continued to harm Black communities at disproportionate rates.
 
-#### [Networks of Identity on QAnon Twitter](/my-work/qanon-twitter/)
+<!-- #### [Networks of Identity on QAnon Twitter](/my-work/qanon-twitter/)
 
-During the summer of 2020, I used the R statistical programming language to download hundreds of thousands of tweets from QAnons. With that data, I investigated some of the more salient themes or their self-identification. Here's how QAnons present themselves to the world and each other.
+During the summer of 2020, I used the R statistical programming language to download hundreds of thousands of tweets from QAnons. With that data, I investigated some of the more salient themes or their self-identification. Here's how QAnons present themselves to the world and each other. -->
 
 #### [Algorithmic Ethnography, A Strategy for Ethnographic Inquiry](https://spark.adobe.com/page/cRH1UENjuWLAS/)
 
