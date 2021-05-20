@@ -10,7 +10,7 @@ layout: home
    <img src="peter.png" width="40%" />
 </p>
 
-Hello. My name is Peter Forberg. I am a jointly degree student at the University of Chicago pursuing a bachelor's degree in sociology and a master's degree in the [digital studies of language, culture, and history](http://collegecatalog.uchicago.edu/thecollege/jointdegreedigs/ "in case you're wondering what the heck that is").
+Hello. My name is Peter Forberg. I am a joint degree student at the University of Chicago pursuing a bachelor's degree in sociology and a master's degree in the [digital studies of language, culture, and history](http://collegecatalog.uchicago.edu/thecollege/jointdegreedigs/ "in case you're wondering what the heck that is").
 
 Academically, I have an interest in political media, journalism, censorship, children's media, LGBTQ health, ethnography, video games, conspiracy theories, and internet culture generally. I've worked as a game designer, developed research studies, and collected internships like an entomologist collects butterflies.
 
