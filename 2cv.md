@@ -8,9 +8,9 @@ permalink: /cv/
 
 **Education**  
 [The University of Chicago](https://www.uchicago.edu/), Chicago, IL  
-*Sociology BA,* Expected, June 2021  
-*Digital Studies in Language, Culture, and History MA,* Expected, June 2021  
-Awards: Dean’s List 2017-2020, Gary Becker Scholar Social Sciences Collegiate Divisional Honors
+*Sociology BA,* summa cum laude, June 2021  
+*Digital Studies in Language, Culture, and History MA,* June 2021  
+Awards: Dean’s List 2017-2021, Gary Becker Scholar Social Sciences Collegiate Divisional Honors
 - Specialization in Cultural and Hermeneutical Sociology
 - Minor in *Media Arts and Design*  
 - BA/MA student
@@ -18,16 +18,16 @@ Awards: Dean’s List 2017-2020, Gary Becker Scholar Social Sciences Collegiate 
 **Research Experience**  
 **\#** Research Assistant at the [Chicago Center for HIV Elimination](https://hivelimination.uchicago.edu/)    
 *Spring 2021 to Present*     
-On an interdisciplinary public health team, I work directly with a lead PI to conduct background research on upcoming papers and grants. My current work is focused on developing resources to understand the traumatic effects of *transmisogynoir,* the triple marginalization of Black transgender women. 
+On an interdisciplinary public health team, I work directly with a lead PI to conduct background research on upcoming papers and grants. My current work is focused on (1) developing resources to understand the traumatic effects of *transmisogynoir,* the triple marginalization of Black transgender women; (2) researching the roots of vaccine mis/distrust in Black communities; and (3) summarizing strategies for including marginalized populations in community-driven HIV research.
 
 
 **\#** Research Assistant at the University of Chicago [Parrhesia Program](https://college.uchicago.edu/academics/parrhesia-program-public-discourse)  
 *Spring 2020 to Present*  
-Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech. Moving beyond theory, we aim to develop robust, pedagogical frameworks for making constructive discourse a practice, not just an ideal.
+Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech. Moving beyond theory, we aim to develop robust, pedagogical frameworks for making constructive discourse a practice, not just an ideal. Currently, we're teaching a course centered around the politics of freedom of expression online.
 
 **\#** Independent Social Sciences Researcher   
 *Autumn 2019 to Spring 2021*    
-As part of my BA thesis, I conducted mixed-methods research on QAnon, the online conspiracy theory. My work involved an in-depth virtual ethnography, semi-structured in-person and virtual interviews, and quantitative/qualitative content analysis, resulting in a multi-year project that tracked the development of the conspiracy theory. An interactive version of my thesis is available [here](https://qquiz.peterforberg.com).
+As part of my BA thesis, I conducted mixed-methods research on QAnon, the online conspiracy theory. My work involved an in-depth, multi-sited virtual ethnography, semi-structured in-person and virtual interviews, and quantitative/qualitative content analysis, resulting in a multi-year project that tracked the development of the conspiracy theory. An interactive version of my thesis is available [here](https://qquiz.peterforberg.com).
 
 **\#** Research Assistant at the University of Chicago Department of Sociology    
 *Autumn 2019 to December 2020*  
@@ -43,8 +43,8 @@ At an interdisciplinary design lab, I worked with psychologists, game designers,
 At the [University of Chicago MADD Center](https://arts.uchicago.edu/explore/initiatives/media-arts-data-and-design-center-madd-center), I work with digital fabrication tools such as LASER cutters, 3D printers, embroidery machines, and CNC routers to help students, faculty, and community members with a [variety of projects](https://voices.uchicago.edu/madeathal/). My tasks also include developing tutorials, managing equipment, and experimenting with tools in order to help the nascent center grow.
 
 **\#** Game Designer and Communications Intern at [Fourcast Lab](https://fourcastlab.com/)  
-*Spring 2019 to Present*  
-With a group of artists, actors, professors, game designers, and other students, I help develop [award-winning](https://anywhere.indiecade.com/nominated-games/terrarium-an-alternate-reality-game/) alternate reality games for social change. As an intern, my responsibilities include prototyping and playtesting new forms of live, interactive gameplay, managing the games' social media presence and communication with players via social media and chatrooms such as Slack or Discord, and researching topics related to the games' themes.
+*Spring 2019 to Autumn 2020*  
+With a group of artists, actors, professors, game designers, and other students, I helped develop [award-winning](https://anywhere.indiecade.com/nominated-games/terrarium-an-alternate-reality-game/) alternate reality games for social change. As an intern, my responsibilities included prototyping and playtesting new forms of live, interactive gameplay, managing the games' social media presence and communication with players via social media and chatrooms such as Slack or Discord, and researching topics related to the games' themes.
 
 **\#** New Works Development Intern at The House Theatre of Chicago   
 *Summer 2018*  
@@ -71,13 +71,6 @@ This grant was used to fund my employment at Fourcast Lab where I assisted in th
 $350, Autumn 2020  
 This grant was used to fund my employment at Fourcast Lab where I assisted in the administration of a new ARG.
 
-**Proficiencies**    
-Office Suites: LibreOffice, Google Drive, Microsoft Office  
-Programming Languages: Python, R, Javascript, HTML, CSS  
-Geographic Information Science: GeoDa, QGIS, R packages  
-Language: French, some Wolof  
-Various Tools: MySQL, RegEx, Protégé, Adobe Creative Suite (Photoshop, Illustrator, Premiere) 
-
 **Talks and Presentations**  
 Motley, Darnell N. and Peter Forberg. 2019. "Developing a Game-Based Intervention to Facilitate Parent-Child Communication about Sexual Health." *Poster presented at The Society for the Scientific Study of Sexuality Spring Symposium,* Bloomington, IN. 
 
@@ -94,3 +87,10 @@ Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Quali
 Guest Lecturer for SOSC 20224/30224 Virtual Ethnographic Field Research Methods. Summer 2021.
 
 Teaching Assistant for PARR 11600 Freedom of Expression and the Politics of Social Media. Summer 2021.
+
+**Proficiencies**    
+Office Suites: LibreOffice, Google Drive, Microsoft Office  
+Programming Languages: Python, R, Javascript, HTML, CSS  
+Geographic Information Science: GeoDa, QGIS, R packages  
+Language: French, some Wolof  
+Various Tools: Qualtrics, Dedoose, GitHub, MySQL, RegEx, Protégé, Adobe Creative Suite (Photoshop, Illustrator, Premiere) 
