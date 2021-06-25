@@ -87,6 +87,6 @@ Forberg, Peter. 2021. ["My Time with the Anons: Making My Digital Self with Cons
 **Teaching**  
 Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology. Winter 2021.
 
-Guest Lecturer for SOSC 20224/30224 Virtual Ethnographic Field Research Methods. Spring 2021.
+Guest Lecturer for SOSC 20224/30224 Virtual Ethnographic Field Research Methods. Summer 2021.
 
 Teaching Assistant for PARR 11600 Freedom of Expression and the Politics of Social Media. Summer 2021.
