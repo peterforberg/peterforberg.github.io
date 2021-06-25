@@ -85,4 +85,8 @@ Fogarty-Valenzuela, Benjamin and Peter Forberg. 2021. "Virtual Ethnography: Ethn
 Forberg, Peter. 2021. ["My Time with the Anons: Making My Digital Self with Conspiracy Theorists."](https://ethnomarginalia.com/my-time-with-the-anons/) *Ethnographic Marginalia: Methodological Appendix.*
 
 **Teaching**  
-Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology. 2021.
+Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology. Winter 2021.
+
+Guest Lecturer for SOSC 20224/30224 Virtual Ethnographic Field Research Methods. Spring 2021.
+
+Teaching Assistant for PARR 11600 Freedom of Expression and the Politics of Social Media. Summer 2021.
