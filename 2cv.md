@@ -25,6 +25,10 @@ On an interdisciplinary public health team, I work directly with a lead PI to co
 *Spring 2020 to Present*  
 Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech. Moving beyond theory, we aim to develop robust, pedagogical frameworks for making constructive discourse a practice, not just an ideal.
 
+**\#** Independent Social Sciences Researcher   
+*Autumn 2019 to Spring 2021*    
+As part of my BA thesis, I conducted mixed-methods research on QAnon, the online conspiracy theory. My work involved an in-depth virtual ethnography, semi-structured in-person and virtual interviews, and quantitative/qualitative content analysis, resulting in a multi-year project that tracked the development of the conspiracy theory. An interactive version of my thesis is available [here](https://qquiz.peterforberg.com).
+
 **\#** Research Assistant at the University of Chicago Department of Sociology    
 *Autumn 2019 to December 2020*  
 Working closely with a small team of sociology researchers, I scheduled, conducted, and analyzed focus groups and interviews with over 50 first-year undergraduate students from underrepresented backgrounds. As part of a larger, longitudinal project, we are investigating how student backgrounds, university resources and programming, social networks, and the COVID-19 pandemic affect student success in college.
