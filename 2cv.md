@@ -22,7 +22,7 @@ On an interdisciplinary public health team, I work directly with a lead PI to co
 
 
 **\#** Research Assistant at the University of Chicago [Parrhesia Program](https://college.uchicago.edu/academics/parrhesia-program-public-discourse)  
-*Spring 2020 to Present*  
+*Spring 2020 to Summer 2021*  
 Working under Professor Leila Brammer, I conduct literature reviews and research on freedom of expression and academic freedom as part of the university's newest program on free speech. Moving beyond theory, we aim to develop robust, pedagogical frameworks for making constructive discourse a practice, not just an ideal. Currently, we're teaching a course centered around the politics of freedom of expression online.
 
 **\#** Ethnographer at the University of Chicago   
