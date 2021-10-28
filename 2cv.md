@@ -56,7 +56,7 @@ $4500, 2020-2021
 This grant was used to fund my research on academic freedom and freedom of expression on college campuses.  
 
 **\#** Seidel Scholars PRISM Grant  
-$4000, Summer 2020  
+$5000, Summer 2020  
 This grant was used to fund my research on the far-right conspiracy theory QAnon in preparation for my undergraduate thesis.
 
 **\#** Summer Institute in Social Research Methods Research Assistantship  
@@ -80,6 +80,8 @@ Fogarty-Valenzuela, Benjamin and Peter Forberg. 2021. "Virtual Ethnography: Ethn
 
 **Writing**    
 Forberg, Peter. 2021. ["My Time with the Anons: Making My Digital Self with Conspiracy Theorists."](https://ethnomarginalia.com/my-time-with-the-anons/) *Ethnographic Marginalia: Methodological Appendix.*
+
+Forberg, Peter L. 2021. ["From the Fringe to the Fore: An Algorithmic Ethnography of the Far-Right Conspiracy Theory Group QAnon."](https://journals.sagepub.com/doi/full/10.1177/08912416211040560) *Journal of Contemporary Ethnography.* doi:10.1177/08912416211040560
 
 **Teaching**  
 Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology. Winter 2021.
