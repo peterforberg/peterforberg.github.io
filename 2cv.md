@@ -16,10 +16,13 @@ Awards: Dean’s List 2017-2021, Gary Becker Scholar Social Sciences Collegiate 
 - BA/MA student
 
 **Research Experience**  
-**\#** Research Assistant at the [Chicago Center for HIV Elimination](https://hivelimination.uchicago.edu/)    
-*Spring 2021 to Present*     
-On an interdisciplinary public health team, I work directly with a lead PI to conduct background research on upcoming papers and grants. My current work is focused on (1) developing resources to understand the traumatic effects of *transmisogynoir,* the triple marginalization of Black transgender women; (2) researching the roots of vaccine mis/distrust in Black communities; and (3) summarizing strategies for including marginalized populations in community-driven HIV research.
+**\#** Research Associate at the [Population Health Innovation Lab](https://pophealthinnovationlab.org/)    
+*Autumn 2021 to Present*     
+At PHIL, I provide research support on a number of population-level public health research agendas. Employing a diverse mix of network analysis, qualitative coding, survey analysis, and general purpose evaluation techniques, we work with medical professionals, non-profits, and academics to address systems-level change in health districts across the United States.
 
+**\#** Research Assistant at the [Chicago Center for HIV Elimination](https://hivelimination.uchicago.edu/)    
+*Spring 2021 to Autumn 2021*     
+On an interdisciplinary public health team, I work directly with a lead PI to conduct background research on upcoming papers and grants. My current work is focused on (1) developing resources to understand the traumatic effects of *transmisogynoir,* the triple marginalization of Black transgender women; (2) researching the roots of vaccine mis/distrust in Black communities; and (3) summarizing strategies for including marginalized populations in community-driven HIV research.     
 
 **\#** Research Assistant at the University of Chicago [Parrhesia Program](https://college.uchicago.edu/academics/parrhesia-program-public-discourse)  
 *Spring 2020 to Summer 2021*  
