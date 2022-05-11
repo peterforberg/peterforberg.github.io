@@ -3,6 +3,12 @@
 
 @import "minima";
 
-a { color: #756bb1; text-decoration: none; }
+a { text-decoration: solid underline #3d753d 2.5px;
+    color: black; }
 
-a:visited { color: #756bb1; }
+a:visited { text-decoration: solid underline #3d753d 2.5px;
+    color: black; }
+
+.site-nav .page-link { text-decoration: none; color: #111; line-height: 1.5; }
+
+.site-title { text-decoration: none; color: #111; }
