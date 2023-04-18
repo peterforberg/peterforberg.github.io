@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 📃cv
-permalink: /cv/
+permalink: https://1drv.ms/b/s!Avw4DXciosFDyxNxVAkHpQvy7tAR?e=7c4v9Q
 ---
 
 ### cv
 
+<!--
 **Education**  
 [The University of Chicago](https://www.uchicago.edu/), Chicago, IL  
 *Sociology BA,* summa cum laude, June 2021  
@@ -86,6 +87,8 @@ Forberg, Peter. 2021. ["My Time with the Anons: Making My Digital Self with Cons
 
 Forberg, Peter L. 2021. ["From the Fringe to the Fore: An Algorithmic Ethnography of the Far-Right Conspiracy Theory Group QAnon."](https://journals.sagepub.com/doi/full/10.1177/08912416211040560) *Journal of Contemporary Ethnography.* doi:10.1177/08912416211040560
 
+
+
 **Teaching**  
 Guest Lecturer for SOCI 20516 Digital Lives, Virtual Societies: Rethinking Qualitative Methodology. Winter 2021.
 
@@ -93,9 +96,12 @@ Guest Lecturer for SOSC 20224/30224 Virtual Ethnographic Field Research Methods.
 
 Teaching Assistant for PARR 11600 Freedom of Expression and the Politics of Social Media. Summer 2021.
 
+Teaching Assistant for PARR 11600 Freedom of Expression and the Politics of Social Media. Summer 2022.
+
 **Proficiencies**    
 Office Suites: LibreOffice, Google Drive, Microsoft Office  
 Programming Languages: Python, R, Javascript, HTML, CSS  
 Geographic Information Science: GeoDa, QGIS, R packages  
 Language: French, some Wolof  
 Various Tools: Qualtrics, Dedoose, GitHub, MySQL, RegEx, Protégé, Adobe Creative Suite (Photoshop, Illustrator, Premiere) 
+-->
