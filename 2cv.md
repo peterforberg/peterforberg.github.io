@@ -1,10 +1,13 @@
 ---
 layout: page
 title: 📃cv
-permalink: https://1drv.ms/b/s!Avw4DXciosFDyxNxVAkHpQvy7tAR?e=7c4v9Q
+permalink: /cv/
 ---
 
 ### cv
+
+<object data="/images/cv.pdf" type="application/pdf" width="100%" height="500px">
+
 
 <!--
 **Education**  
