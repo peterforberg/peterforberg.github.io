@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 📃cv
-permalink: /cv/
+permalink: /images/cv.pdf
 ---
 
 ### cv
 
-<object data="/images/cv.pdf" type="application/pdf" width="100%" height="500px">
+<!--<object data="/images/cv.pdf" type="application/pdf" width="100%" height="500px">-->
 
 
 <!--
