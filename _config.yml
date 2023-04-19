@@ -10,6 +10,8 @@ description: >
 
 # Build settings
 
+baseurl: peterforberg.github.io
+
 theme: minima
 
 plugins:
