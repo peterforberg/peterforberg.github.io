@@ -10,6 +10,8 @@ description: >
 
 # Build settings
 
+google_analytics: G-9JH6JRSY8W
+
 remote_theme: jekyll/minima
 
 plugins:
