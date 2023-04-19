@@ -10,13 +10,12 @@ description: >
 
 # Build settings
 
-baseurl: "/peterforberg.github.io"
-
-theme: minima
+remote_theme: jekyll/minima
 
 plugins:
   # - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Theme-specific settings
 
