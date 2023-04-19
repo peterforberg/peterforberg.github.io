@@ -1,0 +1,50 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+main a {
+    color: black;
+    text-decoration: solid underline #3d753d 2.5px;
+  
+    &:visited {
+      color: black;
+      text-decoration: solid underline #3d753d 2.5px;
+    }
+  
+    &:hover {
+      color: black;
+      text-decoration: underline;
+      text-decoration: solid underline #3d753d 1.5px;
+    }
+  
+    .social-media-list &:hover {
+      text-decoration: none;
+  
+      .username {
+        text-decoration: none;
+      }
+    }
+  }
+  
+  footer a {
+    color: black;
+    text-decoration: solid underline #3d753d 2.5px;
+  
+    &:visited {
+      color: black;
+      text-decoration: solid underline #3d753d 2.5px;
+    }
+  
+    &:hover {
+      color: black;
+      text-decoration: underline;
+      text-decoration: solid underline #3d753d 1.5px;
+    }
+  
+    .social-media-list &:hover {
+      text-decoration: none;
+  
+      .username {
+        text-decoration: none;
+      }
+    }
+  }
