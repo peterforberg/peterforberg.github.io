@@ -20,4 +20,4 @@ Hello! My name is Peter Forberg. I'm an incoming PhD in sociology at UC Berkeley
 
 **\#** A [network visualization](https://loss.peterforberg.com) website built for my master's thesis centered around loss.
 
-**\#** An [essay](https://peterforberg.com/my-work/garrys-mod/) on identity and deviance in a dark online role-playing game.
+**\#** An [essay](https://peterforberg/work/garrys-mod/) on identity and deviance in a dark online role-playing game.
