@@ -10,7 +10,7 @@ description: >
 
 # Build settings
 
-baseurl: peterforberg
+baseurl: "/peterforberg.github.io"
 
 theme: minima
 
