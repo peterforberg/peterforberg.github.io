@@ -12,7 +12,7 @@ layout: home
    <img src="/images/peter.png" width="40%" />
 </p>
 
-Hello! My name is Peter Forberg. I'm an incoming PhD in sociology at UC Berkeley. I study technology, political movements, governance, and ethnography. I run the [QAnon Research Network Newsletter](https://qanonresearch.substack.com/) and have published work in the *Journal of Contemporary Ethnography,* *American Behavioral Scientist,* and *Digital Humanities Quarterly.* I am always open to collaboration, cold emails, and questions.
+Hello! My name is Peter Forberg. I'm an incoming PhD student in sociology at UC Berkeley. I study technology, political movements, governance, and ethnography. I run the [QAnon Research Network Newsletter](https://qanonresearch.substack.com/) and have published work in the *Journal of Contemporary Ethnography,* *American Behavioral Scientist,* and *Digital Humanities Quarterly.* I am always open to collaboration, cold emails, and questions.
 
 ### website highlights
 

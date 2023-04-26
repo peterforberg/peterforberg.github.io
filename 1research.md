@@ -6,23 +6,51 @@ permalink: /research/
 
 ### research
 
-On account of my varied research interests, I have tried to be involved in as many projects and programs as possible during my time at the University of Chicago. During the school year, I took a full course load in addition to my involvement in a variety of internships and extracurricular activities.
+My research interests include:
+* technology and social change
+* political identity and social movements
+* governance and administration
+* ethnography
+* computational social science
+* new media and youth
+* gender and sexuality
 
-**Games and Social Change**   
-My first internship in college was at the [Game Changer Chicago Design Lab](https://ci3.uchicago.edu/new-homepage-working/labs/game-changer-chicago/) where I worked on a dating simulator-style game to be played by incoming freshmen. The game focused on teaching students about queer identities, sexual assault, and sexually transmitted infections through a more realistic, agentive game format. After GCC, I continued working with its [parent lab](https://ci3.uchicago.edu/) to develop an educational party game designed to spark family conversations surrounding sexual health. I then joined the team at [Fourcast Lab](https://fourcastlab.com/) to develop three alternate reality games (ARGs): [Terrarium](https://fourcastlab.com/terrarium/), a climate-focused game that culminated in an interdisciplinary environmental design challenge; [A Labyrinth](https://fourcastlab.com/alabyrinth/), a community-oriented game designed to encourage remote teamwork during the beginning of the COVID-19 pandemic; and ECHO, an ARG designed to teach community members about COVID-19 guidelines and build community networks among students. In addition to my internships, I have independently researched radicalization, white supremacy, community development, and gender identity in online roleplaying games such as Garry's Mod, VRChat, Second Life, and Project Zomboid.
+**Articles**
 
-Games are perfect subjects and tools of study: as objects, they provide playgrounds where we can see how people socialize within the constraints of a given game, and as tools, they allow us to experiment by designing experiences and seeing how people respond.
+Motley, Darnell N., **Peter Forberg,** Jade Pagkas-Bather, Alida Bouris, 
+John Schneider. 2023. “From Trauma to Transformation: The Role of the 
+Trauma Surgeon in the Care of Black Transgender Women.” [Current 
+Trauma Reports](https://link.springer.com/article/10.1007/s40719-023-00254-8){:target="_blank"}.
 
-**Censorship, Freedom of Expression, and Dissensus**   
-My interest in digital studies was largely based in how political information is transmitted online, especially as it relates to radicalisation and extremism. I began working with the University of Chicago's newly founded Parrhesia Program to study the history of freedom of expression on college campuses, focusing on how the now-infamous Chicago Principles could be implemented into real-life college settings.
+Coleman, Jordan Lee, MicKayla Jones, Dejuan Washington, Ellen 
+Almirol, **Peter Forberg,** Typhanye V Dyer, Andrew Spieldenner, Omar 
+Martinez, Carlos Rodriguez-Diaz, Sharon D. Parker, John A. Schneider,
+and Russell Brewer. 2022. “Using the Meaningful Involvement of People 
+Living with HIV/AIDS (MIPA) Framework to Assess the Engagement of 
+Sexual Minority Men of Color in the United States HIV response: A 
+Literature Review up to 2020.” [Journal of Racial and Ethnic Health 
+Disparities.](https://link.springer.com/article/10.1007/s40615-022-01417-0){:target="_blank"} https://doi.org/10.1007/s40615-022-01417-0
 
-For my undergraduate thesis in sociology, I spent a year researching the political movement and far-right conspiracy theory QAnon, whose rapid rise in popularity was driven in part by lax censorship on the Internet and social media. Moreover, their innate distrust of political opponents, politicians, and the mainstream media was demonstration of the growing partisan divide in our media, social networks, and conversations. 
+Forberg, Peter L. 2022. “Critical Design as Theory, Experiment, and Data: 
+A Sociologically-Informed Approach to Visualizing Networks of Loss.” 
+[Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/vol/16/3/000621/000621.html){:target="_blank"} 16(3).
 
-These two case studies—the precarious battle for intellectual freedom of expression on college campuses and the terrifying effects of unregulated, extremist speech online—provided unique ways of engaging with the merits of censorship, the drawbacks of free speech, and the growing dissensus in the United States. Moreover, it looked beyond traditional explanations for radicalism and political opposition—such as economic conditions or education—to target the persuasive powers of human culture, connection, and discourse, especially as they have all been changed by the Internet. 
+Forberg, Peter L. 2022. “‘No Cult Tells You to Think for Yourself’: 
+Discursive Ideology and the Limits of Rationality in Conspiracy Theory 
+QAnon.” [American Behavioral Scientist](https://journals.sagepub.com/doi/abs/10.1177/00027642221091199){:target="_blank"} 67(5).
 
-**College Integration**   
-My first independently-conducted research was on how college students used social media to integrate into their social environment, and how, once on campus, they continue to use social media to keep up with activities, classes, events, and friends both back home and on campus. After this, I began working on an (ongoing) longitudinal study with the University of Chicago's Department of Sociology that tracked the college experiences of first-generation, low-income, LGBTQ+, minority, and international students over their first 4 quarters in college. The focus has been on how university programs and resources affect student's adjustments to the college setting.
+Forberg, Peter L. 2022. “From the Fringe to the Fore: An Algorithmic 
+Ethnography of the Far-right Conspiracy Theory Group QAnon.” [Journal 
+of Contemporary Ethnography](https://journals.sagepub.com/doi/abs/10.1177/08912416211040560?journalCode=jcec){:target="_blank"} 51(3):291-317.
 
-**Miscellaneous**   
-I have a love of geographic information science, and I have taken a number of courses on spatial data analysis. My primary interest has been measuring health disparities in Chicago based on race, class, age, and gender, but I once used GIS to get myself out of a parking ticket, too.
+**Public Sociology**
+
+Forberg, Peter. 2021. “My Time with the Anons: Making My Digital Self 
+with Conspiracy Theorists.” [Ethnographic Marginalia: Methodological 
+Appendix.](https://ethnomarginalia.com/my-time-with-the-anons/){:target="_blank"}
+
+<!-- **Technology and Social Change**   
+While researching public health and higher education at the University of Chicago, I studied how [video games](https://ci3.uchicago.edu/new-homepage-working/labs/game-changer-chicago/) and [alternate reality games](https://fourcastlab.com/) could be leveraged to educate, socialize, and motivate youth as they navigated difficult topics such as sexual health and climate change. I continued studying the political implications of technology in my work on political movements, taking to online video games and social media platforms in order to understand how new media could become the staging ground for political activism, identity formation, and organization. -->
+
+ <!-- I once used GIS to get myself out of a parking ticket, too. Not an easy thing to do in Chicago. -->
 

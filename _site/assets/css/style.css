@@ -305,46 +305,6 @@ a:hover {
   text-decoration: underline;
 }
 
-main a {
-  color: black;
-  text-decoration: solid underline #3d753d 2.5px;
-}
-main a:visited {
-  color: black;
-  text-decoration: solid underline #3d753d 2.5px;
-}
-main a:hover {
-  color: black;
-  text-decoration: underline;
-  text-decoration: solid underline #3d753d 1.5px;
-}
-.social-media-list main a:hover, .pagination main a:hover {
-  text-decoration: none;
-}
-.social-media-list main a:hover .username, .pagination main a:hover .username {
-  text-decoration: none;
-}
-
-footer a {
-  color: black;
-  text-decoration: solid underline #3d753d 2.5px;
-}
-footer a:visited {
-  color: black;
-  text-decoration: solid underline #3d753d 2.5px;
-}
-footer a:hover {
-  color: black;
-  text-decoration: underline;
-  text-decoration: solid underline #3d753d 1.5px;
-}
-.social-media-list footer a:hover, .pagination footer a:hover {
-  text-decoration: none;
-}
-.social-media-list footer a:hover .username, .pagination footer a:hover .username {
-  text-decoration: none;
-}
-
 /**
  * Blockquotes
  */
