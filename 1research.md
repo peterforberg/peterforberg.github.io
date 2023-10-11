@@ -9,39 +9,22 @@ permalink: /research/
 My research interests include:
 * technology and social change
 * political identity and social movements
-* governance and administration
+* bureaucracy
 * ethnography
 * computational social science
 * new media and youth
 * gender and sexuality
+* politics of knowledge
 
-**Articles**
+**Selected Articles**
 
-Motley, Darnell N., **Peter Forberg,** Jade Pagkas-Bather, Alida Bouris, 
-John Schneider. 2023. “From Trauma to Transformation: The Role of the 
-Trauma Surgeon in the Care of Black Transgender Women.” [Current 
-Trauma Reports](https://link.springer.com/article/10.1007/s40719-023-00254-8){:target="_blank"}.
+Forberg, Peter and Kristen Schilt. 2023. “What is Ethnographic about Digital Ethnography? A Sociological Perspective.” [Frontiers in Sociology](https://www.frontiersin.org/articles/10.3389/fsoc.2023.1156776/full){:target="_blank"} 8.
 
-Coleman, Jordan Lee, MicKayla Jones, Dejuan Washington, Ellen 
-Almirol, **Peter Forberg,** Typhanye V Dyer, Andrew Spieldenner, Omar 
-Martinez, Carlos Rodriguez-Diaz, Sharon D. Parker, John A. Schneider,
-and Russell Brewer. 2022. “Using the Meaningful Involvement of People 
-Living with HIV/AIDS (MIPA) Framework to Assess the Engagement of 
-Sexual Minority Men of Color in the United States HIV response: A 
-Literature Review up to 2020.” [Journal of Racial and Ethnic Health 
-Disparities.](https://link.springer.com/article/10.1007/s40615-022-01417-0){:target="_blank"} https://doi.org/10.1007/s40615-022-01417-0
+Forberg, Peter L. 2022. “Critical Design as Theory, Experiment, and Data: A Sociologically-Informed Approach to Visualizing Networks of Loss.” [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/vol/16/3/000621/000621.html){:target="_blank"} 16(3).
 
-Forberg, Peter L. 2022. “Critical Design as Theory, Experiment, and Data: 
-A Sociologically-Informed Approach to Visualizing Networks of Loss.” 
-[Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/vol/16/3/000621/000621.html){:target="_blank"} 16(3).
+Forberg, Peter L. 2022. “‘No Cult Tells You to Think for Yourself’: Discursive Ideology and the Limits of Rationality in Conspiracy Theory QAnon.” [American Behavioral Scientist](https://journals.sagepub.com/doi/abs/10.1177/00027642221091199){:target="_blank"} 67(5).
 
-Forberg, Peter L. 2022. “‘No Cult Tells You to Think for Yourself’: 
-Discursive Ideology and the Limits of Rationality in Conspiracy Theory 
-QAnon.” [American Behavioral Scientist](https://journals.sagepub.com/doi/abs/10.1177/00027642221091199){:target="_blank"} 67(5).
-
-Forberg, Peter L. 2022. “From the Fringe to the Fore: An Algorithmic 
-Ethnography of the Far-right Conspiracy Theory Group QAnon.” [Journal 
-of Contemporary Ethnography](https://journals.sagepub.com/doi/abs/10.1177/08912416211040560?journalCode=jcec){:target="_blank"} 51(3):291-317.
+Forberg, Peter L. 2022. “From the Fringe to the Fore: An Algorithmic Ethnography of the Far-right Conspiracy Theory Group QAnon.” [Journal of Contemporary Ethnography](https://journals.sagepub.com/doi/abs/10.1177/08912416211040560?journalCode=jcec){:target="_blank"} 51(3):291-317.
 
 **Public Sociology**
 
