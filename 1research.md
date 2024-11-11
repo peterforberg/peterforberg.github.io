@@ -18,6 +18,8 @@ My research interests include:
 
 **Selected Articles**
 
+Moore, Ryan C., Ross Dahlke, Peter L. Forberg, Jeffrey T. Hancock. 2024. “The Private Life of QAnon: A Mixed Methods Investigation of Americans’ Exposure to QAnon Content on the Web.” [Proceedings of the ACM on Human-Computer Interaction](https://dl.acm.org/doi/10.1145/3687057){:target="_blank"} 8(CSCW2).
+
 Forberg, Peter and Kristen Schilt. 2023. “What is Ethnographic about Digital Ethnography? A Sociological Perspective.” [Frontiers in Sociology](https://www.frontiersin.org/articles/10.3389/fsoc.2023.1156776/full){:target="_blank"} 8.
 
 Forberg, Peter L. 2022. “Critical Design as Theory, Experiment, and Data: A Sociologically-Informed Approach to Visualizing Networks of Loss.” [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/vol/16/3/000621/000621.html){:target="_blank"} 16(3).
@@ -28,9 +30,9 @@ Forberg, Peter L. 2022. “From the Fringe to the Fore: An Algorithmic Ethnograp
 
 **Public Sociology**
 
-Forberg, Peter. 2021. “My Time with the Anons: Making My Digital Self 
-with Conspiracy Theorists.” [Ethnographic Marginalia: Methodological 
-Appendix.](https://ethnomarginalia.com/my-time-with-the-anons/){:target="_blank"}
+Forberg, Peter. 2021. “My Time with the Anons: Making My Digital Self with Conspiracy Theorists.” [Ethnographic Marginalia: Methodological Appendix.](https://ethnomarginalia.com/my-time-with-the-anons/){:target="_blank"}
+
+Moore, Ryan C., Ross Dahlke, Peter L. Forberg, Jeffrey T. Hancock. 2024. “QAnon and the 2020 Election: Who Went Down the Rabbit Hole?” [Association for Computing Machinery on Human-Computer Interaction](https://medium.com/acm-cscw/qanon-and-the-2020-election-who-went-down-the-rabbit-hole-132a15258b0b){:target="_blank"}.
 
 <!-- **Technology and Social Change**   
 While researching public health and higher education at the University of Chicago, I studied how [video games](https://ci3.uchicago.edu/new-homepage-working/labs/game-changer-chicago/) and [alternate reality games](https://fourcastlab.com/) could be leveraged to educate, socialize, and motivate youth as they navigated difficult topics such as sexual health and climate change. I continued studying the political implications of technology in my work on political movements, taking to online video games and social media platforms in order to understand how new media could become the staging ground for political activism, identity formation, and organization. -->
