@@ -7,13 +7,10 @@ permalink: /research/
 ### research
 
 My research interests include:
-* technology and social change
+* new media and technology
 * political identity and social movements
-* bureaucracy
+* bureaucracy and ideology
 * ethnography
-* computational social science
-* new media and youth
-* gender and sexuality
 * politics of knowledge
 
 **Selected Articles**
@@ -33,9 +30,3 @@ Forberg, Peter L. 2022. “From the Fringe to the Fore: An Algorithmic Ethnograp
 Forberg, Peter. 2021. “My Time with the Anons: Making My Digital Self with Conspiracy Theorists.” [Ethnographic Marginalia: Methodological Appendix.](https://ethnomarginalia.com/my-time-with-the-anons/){:target="_blank"}
 
 Moore, Ryan C., Ross Dahlke, Peter L. Forberg, Jeffrey T. Hancock. 2024. “QAnon and the 2020 Election: Who Went Down the Rabbit Hole?” [Association for Computing Machinery on Human-Computer Interaction](https://medium.com/acm-cscw/qanon-and-the-2020-election-who-went-down-the-rabbit-hole-132a15258b0b){:target="_blank"}.
-
-<!-- **Technology and Social Change**   
-While researching public health and higher education at the University of Chicago, I studied how [video games](https://ci3.uchicago.edu/new-homepage-working/labs/game-changer-chicago/) and [alternate reality games](https://fourcastlab.com/) could be leveraged to educate, socialize, and motivate youth as they navigated difficult topics such as sexual health and climate change. I continued studying the political implications of technology in my work on political movements, taking to online video games and social media platforms in order to understand how new media could become the staging ground for political activism, identity formation, and organization. -->
-
- <!-- I once used GIS to get myself out of a parking ticket, too. Not an easy thing to do in Chicago. -->
-
