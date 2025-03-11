@@ -12,7 +12,7 @@ description: >
 
 google_analytics: G-9JH6JRSY8W
 
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@93b1921"
 
 plugins:
   # - jekyll-feed
